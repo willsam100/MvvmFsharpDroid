@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{ED73AE4B-87F2-4BAE-8CD4-CEFA9825931C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvvmFormsAppFsharp.Droid/MainActivity.fs">
+    <Files>
+      <File FileName="../FSharpMvvmCross/SampleForms.Droid/MvxFormsApplicationActivity.cs" Line="1" Column="1" />
+      <File FileName="../FSharpMvvmCross/SampleForms.Core/App.fs" Line="1" Column="1" />
+      <File FileName="../FSharpMvvmCross/SampleForms.Core/ViewModels.fs" Line="1" Column="1" />
+      <File FileName="../FSharpMvvmCross/SampleForms.Core/SampleForms.Core.fsproj" Line="103" Column="55" />
+      <File FileName="MvvmFormsAppFsharp.Droid/MainActivity.fs" Line="59" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MvvmFormsAppFsharp.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce031713a8016c7a0d" />
+  <MultiItemStartupConfigurations />
+</Properties>
